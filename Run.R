@@ -1,11 +1,9 @@
-library("pdfsearch")
+
 install.packages("pdfsearch")
-install.packages("pdftools")
-install.packages("pdftools")
-library(pdftools)
-library(pdftools)
+
 install.packages("pdftools")
 library(pdftools)
+library("pdfsearch")
 txt <- pdf_text("./pdf/uts_keamanan jaringan.pdf")
 cat(txt[1])
 txt_split <- unlist(strsplit(txt_split, "\n"))

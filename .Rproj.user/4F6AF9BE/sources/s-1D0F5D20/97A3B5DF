@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "77424977",
+    "hash" : "0",
     "id" : "97A3B5DF",
-    "lastKnownWriteTime" : 1571040845,
-    "last_content_update" : 1571040845302,
+    "lastKnownWriteTime" : 1571041518,
+    "last_content_update" : 1571041518948,
     "path" : "~/Documents/utsExtract/uts-extractor/Run.R",
     "project_path" : "Run.R",
     "properties" : {
-        "cursorPosition" : "2,10",
+        "cursorPosition" : "5,20",
         "scrollLine" : "0",
         "tempName" : "Untitled2"
     },
